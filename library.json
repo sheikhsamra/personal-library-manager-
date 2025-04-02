@@ -1,50 +1,35 @@
 [
   {
-    "title": "Deep Learning with Python",
-    "author": "François Chollet",
-    "publication_year": 2021,
-    "genre": "Artificial Intelligence",
-    "read": false,
-    "added_date": "2025-03-25 10:30:00"
-  },
-  {
-    "title": "You Don't Know JS",
-    "author": "Kyle Simpson",
-    "publication_year": 2015,
-    "genre": "JavaScript",
-    "read": true,
-    "added_date": "2025-03-22 15:45:10"
-  },
-  {
-    "title": "Clean Code",
-    "author": "Robert C. Martin",
-    "publication_year": 2008,
-    "genre": "Software Development",
-    "read": true,
-    "added_date": "2025-03-20 18:20:45"
-  },
-  {
-    "title": "The Pragmatic Programmer",
-    "author": "Andrew Hunt & David Thomas",
-    "publication_year": 2019,
-    "genre": "Software Engineering",
-    "read": false,
-    "added_date": "2025-03-23 09:10:30"
-  },
-    {
-    "title": "Python Crash Course",
+    "title":"pyhton crash course",
     "author": "Eric Matthes",
     "publication_year": 2019,
-    "genre": "Programming",
-    "read": false,
-    "added_date": "2025-03-23 12:04:30"
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:36:40"
   },
   {
-    "title": "Automate the Boring Stuff with Python",
-    "author": "Al Sweigart",
-    "publication_year": 2015,
-    "genre": "Programming",
-    "read": true,
-    "added_date": "2025-03-24 01:00:00"
+    "title":"Automate the boring stuff with python",
+    "author": "Fiza Sagar",
+    "publication_year": 2011,
+    "genre":"Programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:45:80"
   },
+  {
+    "title":"Fluent Python",
+    "author": "Ramalho",
+    "publication_year": 2022,
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:55:20"
+  },
+  {    
+    "title":"Effective Python",
+    "author": "Brett Slatkin",
+    "publication_year": 2020,
+    "genre":"Programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:58:10"
+    
+  }
 ]
